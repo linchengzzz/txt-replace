@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# ide
+.idea
+
+# misc
+.DS_Store
+*.pem
+
+# file
+input.txt
+output.txt
+sensitive.csv
